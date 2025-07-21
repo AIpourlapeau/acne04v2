@@ -18,7 +18,7 @@ The file `draw_acne_from_json.py` is one example of how to plot the circles of a
 <img title="a title" alt="levle2_82.jpg" src="examples/levle2_82.jpg"  width="500"> 
 
 ## Citation
-Please cite our paper whenever this repository or the labeled data : 
+Please cite our paper: 
 @InProceedings{10.1007/978-3-031-72086-4_7,
 author="Gazeau, Lea
 and Nguyen, Hang
