@@ -18,7 +18,27 @@ The file `draw_acne_from_json.py` is one example of how to plot the circles of a
 <img title="a title" alt="levle2_82.jpg" src="examples/levle2_82.jpg"  width="500"> 
 
 ## Citation
-<!-- Please cite our paper whenever this repository or the labeled data : (to be added) -->
+Please cite our paper whenever this repository or the labeled data : 
+@InProceedings{10.1007/978-3-031-72086-4_7,
+author="Gazeau, Lea
+and Nguyen, Hang
+and Nguyen, Zung
+and Lebedeva, Mariia
+and Nguyen, Thanh
+and To, Tat-Dat
+and Le Digabel, Jimmy
+and Filiol, Jerome
+and Josse, Gwendal
+and Perlis, Clifford
+and Wolfe, Jonathan",
+title="AcneAI: A New Acne Severity Assessment Method Using Digital Images and Deep Learning",
+booktitle="Medical Image Computing and Computer Assisted Intervention -- MICCAI 2024",
+year="2024",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="68--78",
+isbn="978-3-031-72086-4"
+}
 
 ## Ackownledgement
 This research is supported by [Torus AI](https://torus.ai) and [BelleTorus Corporation](https://belle.ai).
